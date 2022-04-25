@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://arsenal:password16@cluster0.ufoos.mongodb.net/test?retryWrites=true&w=majority"
+}
