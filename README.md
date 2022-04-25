@@ -1,9 +1,9 @@
 # SolidCad Technical assessment
 - Assessment link: https://github.com/vedantulhaspandit/SolidCad_Technical_Assesment/blob/main/assesment.pdf
 - This completed assesment is using:
-1. Frontend: React.js (Hooks)
-2. Backend:  Node.js, Express
-3. Database: MongoDB (hosted on MongoDB Atlas)
+  1. Frontend: React.js (Hooks)
+  2. Backend:  Node.js, Express
+  3. Database: MongoDB (hosted on MongoDB Atlas)
 
 ### To Run the app
 
